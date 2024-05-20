@@ -1,1 +1,1 @@
-# partidas-rankeadas
+# Repositório para atividade Partidas Rankeadas - DIO
